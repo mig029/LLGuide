@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LLGuide</string>
+    <string name="title_section1">Eight Keys</string>
+    <string name="title_section2">Five Keys</string>
+    <string name="title_section3">Yard Control</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="eight_keys">8 Keys to Lifting and Lowering</string>
+    <string name="five_keys">5 Keys to Preventing Slips and Falls</string>
+
+    <string-array name="keys">
+        <item>Get Close to the Package</item>
+        <item>Position Feet Shoulder Width Apart with one foot slightly in front of the other</item>
+        <item>Bend At Knees</item>
+        <item>Test Package for Weight and Shifting Contents</item>
+        <item>Grasp Opposite Corners</item>
+        <item>Lift with a smooth steady motion</item>
+        <item>Pivot Don\'t Twist</item>
+        <item>Use existing equipment</item>
+    </string-array>
+
+    <string-array name="wedlm">
+    <item>Walk</item>
+    <item>Establish</item>
+    <item>Don\'t</item>
+    <item>Look</item>
+    <item>Make</item>
+    </string-array>
+
+    <string-array name="yard">
+        <item>Ped</item>
+        <item>Ped</item>
+        <item>Ped</item>
+        <item>Employees</item>
+        <item>Employees</item>
+        <item>Drivers</item>
+        <item>Drivers</item>
+        <item>Drivers</item>
+
+
+
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
